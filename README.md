@@ -20,13 +20,14 @@ Embodied Reference Understanding (ERU) is the task of identifying a specific obj
 **CAPE** tackles this by moving beyond strict geometric assumptions. We propose a dual-model framework that fuses complementary **head-to-fingertip** and **wrist-to-fingertip** Gaussian ray heatmaps. These models are dynamically combined at inference time using a **CLIP-Aware Pointing Ensemble (CAPE)**, leveraging semantic similarity and a size-aware adaptation rule to achieve state-of-the-art robustness on datasets like YouRefIt, ISL Pointing, and CAESAR.
 
 ## 📖 Citation
+```
 @inproceedings{eyiokur2026cape,
   title={CAPE: A CLIP-Aware Pointing Ensemble of Complementary Heatmap Cues for Embodied Reference Understanding},
   author={Eyiokur, Fevziye Irem and Yaman, Dogucan and Ekenel, Haz{\i}m Kemal and Waibel, Alexander},
   booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
   year={2026}
 }
-
+```
 ## 🙏 Acknowledgements
 This work was supported in part by the European Union's Horizon research and innovation program, project Meetween (101135798) and project DVPS (Diversibus Viis Plurima Solvo) (101213369), and KIT Campus Transfer GmbH (KCT).
 
