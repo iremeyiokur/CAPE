@@ -7,8 +7,8 @@ Official PyTorch implementation of "CAPE: A CLIP-Aware Pointing Ensemble of Comp
 ---
 
 ## 📢 Updates
-* **[Mar 2026]** Visit our poster: WACV 2026, March 9, Poster Session 3.
 * **[Mar 2026]** Training code and evaluation scripts will be released soon.
+* **[Mar 2026]** Presented our paper in WACV 2026.
 * **[Nov 2025]** Paper accepted to WACV 2026.
 
 ## 💡 Abstract
